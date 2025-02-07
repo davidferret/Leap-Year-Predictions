@@ -1,12 +1,10 @@
 # Leap Year Checker & Predictor
 
-This program determines whether a given year is a leap year and can also predict upcoming leap years. It validates user input and provides options for checking a single year or listing multiple leap years.
+This program helps you determine whether a given year is a leap year and can also predict upcoming leap years. It allows users to check if a specific year is a leap year or to generate a list of the next N leap years. Additionally, the program validates user input to make sure only positive numeric values are entered.
 
-- **Leap Year Verification**: Determines whether a specific year is a leap year.
-- **Leap Year Prediction**: Finds and lists the next N leap years from a given year.
-- **Input Validation**: Ensures users enter positive numeric values.
+The program offers two main features: first, it checks if a specific year is a leap year, and second, it predicts and lists the next N leap years starting from a given year. To make the user experience smoother, it also ensures that the input values are valid and numeric.
 
-## Example Usage
+## Example Output
 ```
 --- Leap Year Checker & Predictor ---
 1. Check if a specific year is a leap year
