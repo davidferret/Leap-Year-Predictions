@@ -1,6 +1,6 @@
 # Leap Year Checker & Predictor
 
-This is a C program which helps you determine whether a given year is a leap year and can also predict upcoming leap years. It allows users to check if a specific year is a leap year or to generate a list of the next N leap years. Additionally, the program validates user input to make sure only positive numeric values are entered.
+This is a C program which helps you determine whether a given year is a leap year and can also predict upcoming leap years. It allows you to check if a specific year is a leap year or to generate a list of the next N leap years. Additionally, the program validates user input to make sure only positive numeric values are entered.
 
 The program offers two main features: first, it checks if a specific year is a leap year, and second, it predicts and lists the next N leap years starting from a given year. To make the user experience smoother, it also ensures that the input values are valid and numeric.
 
